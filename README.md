@@ -26,3 +26,15 @@ PS2JSZ - PS2金手指
 3：准备好内容，把U盘插入盒子USB，盒子上不要有多余的usb硬盘或者SD卡
 
 4：盒子开机，等待5分钟左右  -  更新完成 - 手动关机 - 更新完成
+
+
+---- （可选步骤）8bit-png格式封面制作，让OPL更流畅 ----  
+
+1：来到这个网站 https://redketchup.io/bulk-image-resizer
+
+2：转换封面文件到png格式，Predefined Tasks 选择 convert to another image format - 直接把封面文件夹压缩成zip格式，zip拖上去即可
+
+3：转换成功后回下载到一个zip文件，这里面会有所有的封面文件，并且已经是png格式，这一步 Predefined Tasks 选择 compress images - 其他选择保持默认就好
+
+4：把第三步下载的zip文件拖上去即可，这样就可以把所有png文件压缩成OPL最适合的8bit-png格式
+
