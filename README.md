@@ -21,7 +21,7 @@ PS2JSZ - PS2金手指
 
 注意1：gameid很重要，要增加东西，请一定要修改gameid， 不要用模版的gameid，要用你自己游戏的gameid，游戏id可以从OPL中看到。
 
-注意2：PS1游戏的gameid，请从硬盘根目录，CHT-mappings-json文件中取得。部分游戏的id不会是规则如：SLPS_200.02格式，它会是SLPS20002，则文件夹也要命名为SLPS20002，而里面的封面文件格式不变，也就是还要按照：SLPS_200.02_COV.jpg这样的格式来。
+注意2：PS1游戏的gameid，请从硬盘根目录，CHT-mappings-json文件中取得。json文件中部分游戏的id不会是规则如：SLPS_200.02格式，它会是SLPS20002，则文件夹也要命名为SLPS20002，而里面的封面文件格式不变，也就是还要按照：SLPS_200.02_COV.jpg这样的格式来。反正一切都参考jason文件中的游戏id名。
 
 3：准备好内容，把U盘插入盒子USB，盒子上不要有多余的usb硬盘或者SD卡
 
